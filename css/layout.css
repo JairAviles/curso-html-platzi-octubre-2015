@@ -1,0 +1,30 @@
+/* Layout.css */
+
+header, footer {
+	background-color: #282828;
+	position: fixed;
+	width: 100%;
+	padding: 20px 0;
+	box-sizing: border-box;
+	color: #c3c1c1;
+}
+.layout_a {
+	color: #c3c1c1;
+}
+/*nav ul  li {
+	color: #FFFFFF;
+	display: inline;
+	font-weight: 400;
+}*/
+header {
+	top: 0;
+}
+footer {
+	bottom: 0;
+}
+/* Image size modify */
+/* Especificidad */
+header img {
+	width: 250px;
+	display: block;
+}

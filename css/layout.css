@@ -7,6 +7,7 @@ header, footer {
 	padding: 20px 0;
 	box-sizing: border-box;
 	color: #c3c1c1;
+	width: 100%;
 }
 .layout_a {
 	color: #c3c1c1;
@@ -27,4 +28,12 @@ footer {
 header img {
 	width: 250px;
 	display: block;
+}
+img {
+	width: 100%;
+	float: left;
+}
+.float {
+    display: inline;
+    max-width: 15%;
 }

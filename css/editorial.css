@@ -4,6 +4,11 @@ h1 {
 	text-transform: uppercase;
 	font-weight: 700;
 }
+
 a {
 	text-decoration: none;
+}
+
+ol {
+	list-style: decimal;
 }

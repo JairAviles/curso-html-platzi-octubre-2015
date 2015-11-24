@@ -14,7 +14,17 @@
 	height: 100%;
 	padding: 20% 0;
 }
-.same-height {
-	max-height: 154px;
-	overflow: hidden;
+
+.single{
+	/*margin: 130px 0;*/
+	padding: 130px 0 100px;
+}
+
+.info {
+	background-color: #eaeff5;
+	color: #888d9b;
+	padding: 20px;
+	font-size: 10px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
 }

@@ -28,6 +28,11 @@ h4 {
 p {
 	color: #636363;
 	line-height: 20px;
+	margin-bottom: 5px;
+}
+
+p:last-of-type {
+	margin-bottom: 0;
 }
 
 a {
@@ -49,6 +54,7 @@ ol li {
 ol li::before {
 	content:counter(step-counter);
 	display: inline;
+	color: #3facef;
 	/*margin-right: 5px;
 	font-size: 15px;
 	background-color: #ccc;

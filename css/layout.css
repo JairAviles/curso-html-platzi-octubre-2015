@@ -15,7 +15,6 @@ header, footer {
 }
 .layout_a:hover{
 	text-decoration: underline;
-	background-color: red;
 	color: #FFF;
 }
 /*nav ul  li {

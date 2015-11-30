@@ -71,3 +71,9 @@ ol li::before {
 	background-color: red;
 	display: block;*/
 }
+
+ul.about {
+	list-style-type: circle;
+	text-align: left;
+	padding: 20px;
+}
